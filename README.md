@@ -7,6 +7,7 @@ LSC Bodyarmor is a FiveM resource to allow your players to equip or unequip a he
 # Features
 
 - In game, (un)equip your LSSD heavy bodyarmor with the `/gpbsd`.
+- In game, (un)equip your LSPD or RHPD heavy bodyarmor with the `/gpbpd`.
 
 # Installation
 
